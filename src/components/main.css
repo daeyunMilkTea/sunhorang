@@ -1,0 +1,40 @@
+header{
+    width:100%;
+    height:70px;
+    background: #777777;
+}
+.headerWrap{
+    max-width: 975px;
+    margin:0 auto;
+    height:100%;
+    display:flex;
+    justify-content: space-between;
+}
+.logo {
+    display:flex;
+    align-items: center;
+}
+nav{
+    width:40%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainSlide{
+    width:100%;
+    height:70px;
+    background: #777777;
+}
+main{
+    max-width: 975px;
+    margin:0 auto;
+    height: 100vh;
+    background: #dddddd;
+}
+footer{
+    width: 100%;
+    height:200px;
+    color:#ffffff;
+    text-align: center;
+    background: #222222;
+}
