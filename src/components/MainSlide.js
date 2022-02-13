@@ -2,7 +2,7 @@ import React from 'react';
 
 const MainSlide = () => {
     return (
-        <div className='MainSlide'>
+        <div className='mainSlide'>
             MainSlide
         </div>
     );
